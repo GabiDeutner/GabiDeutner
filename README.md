@@ -1,4 +1,4 @@
-### Hello! I am Gabi Deutner 👋
+### Olá! Eu sou a Gabi Deutner 👋
 
 <div align="center">
   <a href="https://github.com/GabiDeutner">
