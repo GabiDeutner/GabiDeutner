@@ -15,8 +15,6 @@ Sou Desenvolvedora Web Front-End e Analista de Sistemas com experiência de quat
 <div>
   <p> Habilidades: </p>
   
-  <p><img align="center" alt="Gabi-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> Kotlin </p>
-
   <p><img align="center" alt="Gabi-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> JavaScript </p>
   
   <p><img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5 </p>
@@ -28,6 +26,8 @@ Sou Desenvolvedora Web Front-End e Analista de Sistemas com experiência de quat
   <p> <img align="center" alt="Gabi-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java </p>
     
   <p> <img align="center" alt="Gabi-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> SQL / Banco de Dados </p>
+
+  <p><img align="center" alt="Gabi-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> Kotlin </p>
   
 </div>
   
