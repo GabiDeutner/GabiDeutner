@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Gabi Deutner 👋
 
 <br>
-Sou Desenvolvedora Web Front-End e Mobile (Android) e Analista de Sistemas com experiência de quatro anos em sistemas bancários, capaz de comunicação assertiva para resolução de desafios e problemas e tenho profundo conhecimento em Banco de Dados, Kotlin, JavaScript, metodologias ágeis e liderança. Sou formada pela Faculdade de Tecnologia de São Paulo em Informática para Negócios e anteriormente me graduei em Farmácia e Bioquímica pela Universidade de São Paulo. 
+Sou Desenvolvedora Web Front-End e Analista de Sistemas com experiência de quatro anos em sistemas bancários, capaz de comunicação assertiva para resolução de desafios e problemas e tenho profundo conhecimento em Banco de Dados, Kotlin, JavaScript, metodologias ágeis e liderança. Sou formada pela Faculdade de Tecnologia de São Paulo em Informática para Negócios e anteriormente me graduei em Farmácia e Bioquímica pela Universidade de São Paulo. 
 <br><br>
 
 <div align="center">
