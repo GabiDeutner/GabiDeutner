@@ -18,6 +18,8 @@ Sou Desenvolvedora Web Front-End e Analista de Sistemas com experiência de quat
   <p><img align="center" alt="Gabi-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> JavaScript </p>
 
   <p><img align="center" alt="Gabi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React </p>
+
+  <p><img align="center" alt="Gabi-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> Typescript </p>
   
   <p><img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5 </p>
   
@@ -27,7 +29,9 @@ Sou Desenvolvedora Web Front-End e Analista de Sistemas com experiência de quat
     
   <p> <img align="center" alt="Gabi-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java </p>
     
-  <p> <img align="center" alt="Gabi-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> SQL / Banco de Dados </p>
+  <p> <img align="center" alt="Gabi-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> SQL / Banco de Dados SQL SERVER </p>
+
+  <p> <img align="center" alt="Gabi-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> SQL Oracle / Banco de Dados Oracle </p>
 
   <p><img align="center" alt="Gabi-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> Kotlin </p>
   
