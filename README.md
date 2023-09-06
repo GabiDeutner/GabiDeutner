@@ -16,6 +16,8 @@ Sou Desenvolvedora Web Front-End e Analista de Sistemas com experiência de quat
   <p> Habilidades: </p>
   
   <p><img align="center" alt="Gabi-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> JavaScript </p>
+
+  <p><img align="center" alt="Gabi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React </p>
   
   <p><img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5 </p>
   
