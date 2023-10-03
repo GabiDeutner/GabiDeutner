@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Gabi Deutner 👋
 
 <br>
-Sou Desenvolvedora Web e Analista de Sistemas com experiência em sistemas bancários. Sou formada pela Faculdade de Tecnologia de São Paulo em Informática para Negócios e anteriormente me graduei em Farmácia e Bioquímica pela Universidade de São Paulo. 
+Sou Desenvolvedora Web e Analista de Sistemas com experiência em sistemas bancários, formada pela Faculdade de Tecnologia de São Paulo em Informática para Negócios e graduada com bacharelado em Farmácia e Bioquímica pela Universidade de São Paulo. 
 <br><br>
 
 <div align="center">
