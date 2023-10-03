@@ -28,13 +28,12 @@ Sou Desenvolvedora Web e Analista de Sistemas com experiÃªncia em sistemas bancÃ
 <br>
 <div align="center"> 
   <p> Conecte-se comigo! </p>
-  <br>
-  <a href ="https://web.dio.me/users/deutnerg"> <img src= "https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge"> </a>
-  <a href = "mailto:deutnerg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabideutner/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/115f91cfcbefe3683b29b57f468acfb7.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a><br/>
 </div>
 <br><br>
-
-<div align="center">
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/115f91cfcbefe3683b29b57f468acfb7.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br/>
+<div align="center"> 
+  <a href ="https://web.dio.me/users/deutnerg"> <img src= "https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge"> </a>
+  <a href = "mailto:deutnerg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabideutner/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<br><br>
