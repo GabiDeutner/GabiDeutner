@@ -5,7 +5,6 @@
 :computer: Desenvolvedora Web e Analista de Sistemas com experiência em sistemas bancários. <br>
 :mortar_board: Formada pela Faculdade de Tecnologia de São Paulo em Informática para Negócios. <br>
 :mortar_board: Bacharelado em Farmácia e Bioquímica pela Universidade de São Paulo. <br>
-:bulb: Determinada, curiosa e criativa <br>
 <br><br>
 
 <div align="center">
