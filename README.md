@@ -1,10 +1,10 @@
-### Olá! Eu sou a Gabi Deutner 👋
+### Hello, World! I'm Gabi Deutner 👋
 
 <br>
-:heart_eyes: Apaixonada por tecnologia!  <br>
-:computer: Desenvolvedora Web e Analista de Sistemas com experiência em sistemas bancários. <br>
-:mortar_board: Formada pela Faculdade de Tecnologia de São Paulo em Informática para Negócios. <br>
-:mortar_board: Bacharelado em Farmácia e Bioquímica pela Universidade de São Paulo. <br>
+:heart_eyes: I'm a technology enthusiast!  <br>
+:computer: Web Developer and System Analyst with experience in banking systems. <br>
+:mortar_board: I graduated from the FATEC (Faculdade de Tecnologia de São Paulo) with a degree in Business Informatics. <br>
+:mortar_board: I hold a Bachelor's degree in Pharmacy and Biochemistry from the University of São Paulo (USP). <br>
 <br><br>
 
 <div align="center">
@@ -34,7 +34,7 @@
   ##
 <br>
 <div align="center"> 
-  <p> Conecte-se comigo! </p>
+  <p> Connect with me! </p>
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/115f91cfcbefe3683b29b57f468acfb7.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a><br/>
 </div>
 <br><br>
