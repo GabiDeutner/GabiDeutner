@@ -2,7 +2,7 @@
 
 <br>
 :heart_eyes: I'm a technology enthusiast!  <br>
-:computer: Web Developer and System Analyst with experience in banking systems. <br>
+:computer: Web Developer and System Analyst with experience in banking systems and ecommerce. <br>
 :mortar_board: I graduated from the FATEC (Faculdade de Tecnologia de São Paulo) with a degree in Business Informatics. <br>
 :mortar_board: I hold a Bachelor's degree in Pharmacy and Biochemistry from the University of São Paulo (USP). <br>
 <br><br>
