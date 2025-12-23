@@ -75,10 +75,6 @@ I am a technology enthusiast with a unique hybrid background. Currently working 
 <br>
 
 <div align="center">
-  <img src="https://i.picasion.com/pic92/115f91cfcbefe3683b29b57f468acfb7.gif" width="60" alt="Mascot" />
-</div>
-
-<div align="center">
 <img width="650" height="432" alt="pic1 (1)" src="https://github.com/user-attachments/assets/421bdd54-577c-4991-a0c4-555d101e851d" />
 </div>
 
